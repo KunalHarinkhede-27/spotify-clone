@@ -12,11 +12,10 @@ HTML5 - For structuring the webpage
 CSS3 - For styling and responsiveness
 
 📸 Screenshot
-![rainyweather](https://github.com/user-attachments/assets/a63c7f81-9807-43c4-87c7-a6466226d099)
 
+![Screenshot 2025-01-31 141100](https://github.com/user-attachments/assets/fec8c68c-51fb-46ab-b6f7-b2aa5d32ae1b)
 
-
-🚀 How to Run
-1️⃣ Download or clone the repository
-2️⃣ Open index.html in any web browser
-3️⃣ Enjoy the UI of Spotify Clone!
+* How to Run
+1️ Download or clone the repository
+2️ Open index.html in any web browser
+3️ Enjoy the UI of Spotify Clone!
